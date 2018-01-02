@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c29b9b1-626d-435b-a776-f27944a09e86" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/club.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/table_test/old/or_gf_shangbao_2_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testcase/or_gf_caoduanqiyuche_2_1_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testcase/or_gf_duanqiyuche_2_1_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testcase/or_gf_fadian_1_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testcase/or_gf_shangbao_2_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/table_test/public/get_mysql.py" afterPath="$PROJECT_DIR$/table_test/public/get_mysql.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/table_test/public/set_date.py" afterPath="$PROJECT_DIR$/table_test/public/set_date.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testcase/or_gf_lilungonglv.py" afterPath="$PROJECT_DIR$/testcase/or_gf_lilungonglv_1_7.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testcase/or_gf_shishigonglv.py" afterPath="$PROJECT_DIR$/testcase/or_gf_shishigonglv_1_2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testcase/or_gf_shishiqixiang.py" afterPath="$PROJECT_DIR$/testcase/or_gf_shishiqixiang_1_3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testcase/or_gf_shishiyuchegonglv.py" afterPath="$PROJECT_DIR$/testcase/or_gf_yuchegonglv_1_6.py" />
+    </list>
+    <ignored path="ch_workspace.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/club$start_browser.coverage" NAME="start_browser Coverage Results" MODIFIED="1502160486005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$wait.coverage" NAME="wait Coverage Results" MODIFIED="1501726345983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/old" />
+    <SUITE FILE_PATH="coverage/club$zu2.coverage" NAME="zu2 Coverage Results" MODIFIED="1505186877244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$cac_test.coverage" NAME="cac_test Coverage Results" MODIFIED="1500525525567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/ch_workspace$with_test.coverage" NAME="with_test Coverage Results" MODIFIED="1501727092644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/old" />
+    <SUITE FILE_PATH="coverage/club$zhu_add.coverage" NAME="zhu_add Coverage Results" MODIFIED="1505897904792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_o1r_first.coverage" NAME="Unittests in o1r_first Coverage Results" MODIFIED="1508342022193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittest_MyTestCase_test_something.coverage" NAME="Unittest MyTestCase.test_something Coverage Results" MODIFIED="1501773467298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$dd.coverage" NAME="dd Coverage Results" MODIFIED="1504245772608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$round_test.coverage" NAME="round_test Coverage Results" MODIFIED="1507711224542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$zhu_demo.coverage" NAME="zhu_demo Coverage Results" MODIFIED="1505287581637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_duanqiyuche_2_1_1.coverage" NAME="Unittests in or_gf_duanqiyuche_2_1_1 Coverage Results" MODIFIED="1507795872129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$menu.coverage" NAME="menu Coverage Results" MODIFIED="1500625497594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_testcase.coverage" NAME="Unittests in testcase Coverage Results" MODIFIED="1505285693800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$test_zhu_bai.coverage" NAME="test_zhu_bai Coverage Results" MODIFIED="1505286659628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittest_MyTestCase_test_something.coverage" NAME="Unittest MyTestCase.test_something Coverage Results" MODIFIED="1502171679705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittest_cac_test_cac.coverage" NAME="Unittest cac.test_cac Coverage Results" MODIFIED="1500452943293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$main.coverage" NAME="main Coverage Results" MODIFIED="1508341975982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox" />
+    <SUITE FILE_PATH="coverage/club$del_file.coverage" NAME="del_file Coverage Results" MODIFIED="1504244214269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$or_gf_shishigonglv1.coverage" NAME="or_gf_shishigonglv1 Coverage Results" MODIFIED="1507693799282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$threadtest.coverage" NAME="threadtest Coverage Results" MODIFIED="1501725937946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittests_in_ch_workspace__1_.coverage" NAME="Unittests in ch_workspace (1) Coverage Results" MODIFIED="1500435373350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ch_workspace$get_col.coverage" NAME="get_col Coverage Results" MODIFIED="1501821475264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$webview_test.coverage" NAME="webview_test Coverage Results" MODIFIED="1500608779282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$com_table.coverage" NAME="com_table Coverage Results" MODIFIED="1502157037793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittests_in_test_unit.coverage" NAME="Unittests in test_unit Coverage Results" MODIFIED="1500630248723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$dictlist.coverage" NAME="dictlist Coverage Results" MODIFIED="1501727442302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$bak_test.coverage" NAME="bak_test Coverage Results" MODIFIED="1503201757329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/old" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_test_unit.coverage" NAME="Unittests in test_unit Coverage Results" MODIFIED="1502172874610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittests_in_start.coverage" NAME="Unittests in start Coverage Results" MODIFIED="1501741405190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$tezLog.coverage" NAME="tezLog Coverage Results" MODIFIED="1508339937538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$excel_test.coverage" NAME="excel_test Coverage Results" MODIFIED="1500370716868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/ch_workspace$get_mysql.coverage" NAME="get_mysql Coverage Results" MODIFIED="1501838110244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1503393698190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/oracle_to_mysql" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_ch_workspace.coverage" NAME="Unittests in ch_workspace Coverage Results" MODIFIED="1507691184793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/club$start.coverage" NAME="start Coverage Results" MODIFIED="1502166880652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$cac_test_new.coverage" NAME="cac_test_new Coverage Results" MODIFIED="1500608610991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$get_oracle.coverage" NAME="get_oracle Coverage Results" MODIFIED="1503394406353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/oracle_to_mysql" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_gf_bak_test_un.coverage" NAME="Unittests in gf_bak_test_un Coverage Results" MODIFIED="1505209074104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_lilungonglv.coverage" NAME="Unittests in or_gf_lilungonglv Coverage Results" MODIFIED="1507788260701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$test_cl.coverage" NAME="test_cl Coverage Results" MODIFIED="1502158623762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_testcase__2_.coverage" NAME="Unittests in testcase (2) Coverage Results" MODIFIED="1505285725598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$com_table.coverage" NAME="com_table Coverage Results" MODIFIED="1501655893281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$list_com.coverage" NAME="list_com Coverage Results" MODIFIED="1502156990821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$logger_test.coverage" NAME="logger_test Coverage Results" MODIFIED="1508340862404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/club$menu.coverage" NAME="menu Coverage Results" MODIFIED="1503640945606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$set_date.coverage" NAME="set_date Coverage Results" MODIFIED="1507794805821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_first.coverage" NAME="Unittests in first Coverage Results" MODIFIED="1508339159344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittest_MyTestCase_test_table.coverage" NAME="Unittest MyTestCase.test_table Coverage Results" MODIFIED="1503201976862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/old" />
+    <SUITE FILE_PATH="coverage/club$Logger.coverage" NAME="Logger Coverage Results" MODIFIED="1508335982584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/club$gf_sszt_ssgl.coverage" NAME="gf_sszt_ssgl Coverage Results" MODIFIED="1502194636250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_gf_liuchen.coverage" NAME="Unittests in gf_liuchen Coverage Results" MODIFIED="1503641623266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$gf_liuchen.coverage" NAME="gf_liuchen Coverage Results" MODIFIED="1503641648807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$common.coverage" NAME="common Coverage Results" MODIFIED="1500271919350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$arg_list.coverage" NAME="arg_list Coverage Results" MODIFIED="1501725902770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/ch_workspace$.coverage" NAME="转置 Coverage Results" MODIFIED="1501726536668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$zu.coverage" NAME="zu Coverage Results" MODIFIED="1505204764945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_caoduanqiyuche_2_1_2.coverage" NAME="Unittests in or_gf_caoduanqiyuche_2_1_2 Coverage Results" MODIFIED="1507800339448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$get_col.coverage" NAME="get_col Coverage Results" MODIFIED="1504686014234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittests_in_ch_workspace.coverage" NAME="Unittests in ch_workspace Coverage Results" MODIFIED="1501740985899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/club$get_heng.coverage" NAME="get_heng Coverage Results" MODIFIED="1502156303602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$hh.coverage" NAME="hh Coverage Results" MODIFIED="1502171062207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$light_test.coverage" NAME="light_test Coverage Results" MODIFIED="1501726699681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_sszt_ssgl.coverage" NAME="Unittests in or_gf_sszt_ssgl Coverage Results" MODIFIED="1507693730011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$Unittests_in_MyTestCase.coverage" NAME="Unittests in MyTestCase Coverage Results" MODIFIED="1500623087873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_lishi_2_3.coverage" NAME="Unittests in or_gf_lishi_2_3 Coverage Results" MODIFIED="1508996585976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_teee.coverage" NAME="Unittests in teee Coverage Results" MODIFIED="1505353048771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/ch_workspace$dictlist__1_.coverage" NAME="dictlist (1) Coverage Results" MODIFIED="1500629107947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$open_browser.coverage" NAME="open_browser Coverage Results" MODIFIED="1501751585173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$list_test.coverage" NAME="list_test Coverage Results" MODIFIED="1500279927913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/mytest" />
+    <SUITE FILE_PATH="coverage/club$test_oracl_mysql.coverage" NAME="test_oracl_mysql Coverage Results" MODIFIED="1503456791819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/oracle_to_mysql" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_shangbao_2_2.coverage" NAME="Unittests in or_gf_shangbao_2_2 Coverage Results" MODIFIED="1507801809122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1508336084635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_shishigonglv.coverage" NAME="Unittests in or_gf_shishigonglv Coverage Results" MODIFIED="1507709943147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_oo.coverage" NAME="Unittests in oo Coverage Results" MODIFIED="1502172558687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$gf_zhu_bai.coverage" NAME="gf_zhu_bai Coverage Results" MODIFIED="1505353369203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$log_1.coverage" NAME="log_1 Coverage Results" MODIFIED="1508335147725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/club$setpath.coverage" NAME="setpath Coverage Results" MODIFIED="1502173056015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1503629756429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/ch_workspace$test_unit.coverage" NAME="test_unit Coverage Results" MODIFIED="1501725251027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_fadian.coverage" NAME="Unittests in or_gf_fadian Coverage Results" MODIFIED="1507791443697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_shishiqixiang.coverage" NAME="Unittests in or_gf_shishiqixiang Coverage Results" MODIFIED="1507708420381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$log.coverage" NAME="log Coverage Results" MODIFIED="1508338204300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_gf_sszt_ssgl.coverage" NAME="Unittests in gf_sszt_ssgl Coverage Results" MODIFIED="1505981086863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$xia_la.coverage" NAME="xia_la Coverage Results" MODIFIED="1503647890976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_gf_shishiyuchegonglv.coverage" NAME="Unittests in or_gf_shishiyuchegonglv Coverage Results" MODIFIED="1507787929713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_MyTestCase.coverage" NAME="Unittests in MyTestCase Coverage Results" MODIFIED="1504669766682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_bak_test_un.coverage" NAME="Unittests in bak_test_un Coverage Results" MODIFIED="1504770534172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/club$Unittests_in_or_two.coverage" NAME="Unittests in or_two Coverage Results" MODIFIED="1508341362163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/testcase" />
+    <SUITE FILE_PATH="coverage/club$round_test__1_.coverage" NAME="round_test (1) Coverage Results" MODIFIED="1507775182743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/club$hehe.coverage" NAME="hehe Coverage Results" MODIFIED="1508340772621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../powerbox/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$start.coverage" NAME="start Coverage Results" MODIFIED="1501747554498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+    <SUITE FILE_PATH="coverage/ch_workspace$dict_test.coverage" NAME="dict_test Coverage Results" MODIFIED="1501821801283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_test/public" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="E:\ch_workspace\club\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ch_workspace">
+      <favorite_root url="file://$PROJECT_DIR$/table_test/public/jidianxian.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="o1r_first.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../powerbox/testcase/o1r_first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tezLog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../powerbox/public/tezLog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="or_gf_shangbao_2_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/or_gf_shangbao_2_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-405">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <marker date="1508996585890" expanded="true" signature="1377:1512" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1508996585890" expanded="true" signature="2049:2239" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1508996585890" expanded="true" signature="2792:2928" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1508996585890" expanded="true" signature="3479:3615" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1508996585890" expanded="true" signature="4144:4281" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1508996585890" expanded="true" signature="5452:5619" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1508996585890" expanded="true" signature="6214:6434" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1508996585890" expanded="true" signature="7047:7213" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1508996585890" expanded="true" signature="7824:7990" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1508996585890" expanded="true" signature="8581:8748" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="or_gf_shangbao_2_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/table_test/old/or_gf_shangbao_2_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5427">
+              <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+              <folding>
+                <marker date="1507802011042" expanded="true" signature="1377:1450" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1507802011042" expanded="true" signature="1377:1512" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507802011042" expanded="true" signature="2049:2119" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507802011042" expanded="true" signature="2049:2239" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507802011042" expanded="true" signature="2792:2928" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1507802011042" expanded="true" signature="2792:2929" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1507802011042" expanded="true" signature="3479:3615" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507802011042" expanded="true" signature="4144:4281" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507802011042" expanded="true" signature="5452:5619" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1507802011042" expanded="true" signature="6214:6434" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507802011042" expanded="true" signature="7047:7213" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1507802011042" expanded="true" signature="7824:7990" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+                <marker date="1507802011042" expanded="true" signature="8581:8748" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myapp.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../powerbox/myapp.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../powerbox/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="or_two.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../powerbox/testcase/or_two.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myapp.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../powerbox/testcase/myapp.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="or_gf_lilungonglv_1_7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/or_gf_lilungonglv_1_7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3942">
+              <caret line="146" column="40" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+              <folding>
+                <marker date="1507799653475" expanded="true" signature="1431:1613" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507799653475" expanded="true" signature="2160:2336" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507799653475" expanded="true" signature="2881:2996" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1507799653475" expanded="true" signature="3526:3582" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507799653475" expanded="true" signature="3526:3702" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1507799653475" expanded="true" signature="4882:5097" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507799653475" expanded="true" signature="5707:5912" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507799653475" expanded="true" signature="6521:6667" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+                <marker date="1507799653475" expanded="true" signature="7262:7366" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+                <marker date="1507799653475" expanded="true" signature="7262:7467" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/testcase/zu.py" />
+        <option value="$PROJECT_DIR$/table_test/public/test.log" />
+        <option value="$PROJECT_DIR$/testcase/gf_bak_test_un.py" />
+        <option value="$PROJECT_DIR$/table_test/public/log.py" />
+        <option value="$PROJECT_DIR$/table_test/public/conf.py" />
+        <option value="$PROJECT_DIR$/testcase/zu_demo.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zhu_bai.py" />
+        <option value="$PROJECT_DIR$/testcase/zhu_bai.py" />
+        <option value="$PROJECT_DIR$/testcase/gf_sszt_ssgl.py" />
+        <option value="$PROJECT_DIR$/testcase/zhu_add.py" />
+        <option value="$PROJECT_DIR$/table_test/public/get_heng.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_sszt_ssgl_fail.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_sszt_ssgl-fail.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_sszt_ssgl.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_shishigonglv1.py" />
+        <option value="$PROJECT_DIR$/table_test/public/get_col.py" />
+        <option value="$PROJECT_DIR$/table_test/mytest/teee.py" />
+        <option value="$PROJECT_DIR$/table_test/mytest/list_to_tuple.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_shishigonglv.py" />
+        <option value="$PROJECT_DIR$/table_test/mytest/round_test.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_shishiyuchegonglv.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_shishiqixiang.py" />
+        <option value="$PROJECT_DIR$/table_test/public/get_oracle.py" />
+        <option value="$PROJECT_DIR$/table_test/public/round_test.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_lilungonglv.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_fadian.py" />
+        <option value="$PROJECT_DIR$/table_test/public/set_date.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_duanqiyuche_2_1_1.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_caoduanqiyuche_2_1_2.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_lilungonglv_1_7.py" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_shangbao_2_2.py" />
+        <option value="$PROJECT_DIR$/table_test/public/get_mysql.py" />
+        <option value="$PROJECT_DIR$/test.log" />
+        <option value="$PROJECT_DIR$/../powerbox/public/logging.conf.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/logging.conf" />
+        <option value="$PROJECT_DIR$/../powerbox/public/test_log.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/log_1.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/Logger.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/log.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/logger_test.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/myapp.log" />
+        <option value="$PROJECT_DIR$/../powerbox/testcase/first.py" />
+        <option value="$PROJECT_DIR$/../powerbox/main.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/hehe.py" />
+        <option value="$PROJECT_DIR$/../powerbox/myapp.log" />
+        <option value="$PROJECT_DIR$/../powerbox/testcase/or_two.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/tezLog.py" />
+        <option value="$PROJECT_DIR$/../powerbox/public/Logger.conf" />
+        <option value="$PROJECT_DIR$/testcase/or_gf_lishi_2_3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powerbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powerbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testcase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powerbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testcase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="club" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ch_workspace" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ch_workspace" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ch_workspace\powerbox" />
+      <recent name="E:\ch_workspace\powerbox\public" />
+      <recent name="E:\ch_workspace\club\testcase" />
+      <recent name="E:\ch_workspace\club" />
+      <recent name="E:\ch_workspace\club\table_test\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ch_workspace\club" />
+      <recent name="E:\ch_workspace\club\table_test\old" />
+      <recent name="E:\ch_workspace\club\table_test\public" />
+      <recent name="E:\ch_workspace\club\table_test\mytest" />
+      <recent name="E:\ch_workspace\club\testcase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in or_gf_shangbao_2_2">
+    <configuration default="false" name="logger_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../powerbox/public" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../powerbox/public/logger_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../powerbox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../powerbox/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in or_two" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../powerbox/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../powerbox/testcase/or_two.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in o1r_first" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../powerbox/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../powerbox/testcase/o1r_first.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in or_gf_shangbao_2_2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\ch_workspace\club\testcase\or_gf_shangbao_2_2.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ch_workspace" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ch_workspace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.logger_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in or_two" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in o1r_first" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in or_gf_shangbao_2_2" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in or_gf_shangbao_2_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in o1r_first" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in or_two" />
+        <item index="4" class="java.lang.String" itemvalue="Python.logger_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c29b9b1-626d-435b-a776-f27944a09e86" name="Default" comment="" />
+      <created>1500254077346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500254077346</updated>
+    </task>
+    <task id="LOCAL-00001" summary="试试恢复后再提交">
+      <created>1502074977990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502074977990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="reject后解决冲突再提交">
+      <created>1502075064686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502075064686</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加了oracle对比mysql">
+      <created>1503454454840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503454454840</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加了oracle对比mysql">
+      <created>1503454465774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503454465774</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加了oracle对比mysql">
+      <created>1503454480417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503454480417</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加了oracle对比mysql">
+      <created>1503627425459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503627425459</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改了删除某一定向元素的方法">
+      <created>1504683010093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1504683010093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="删除某一元素的方法由remove变为新增，同时加了一个新方法用于替换在get_col中">
+      <created>1504691625324</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1504691625324</updated>
+    </task>
+    <task id="LOCAL-00009" summary="删除某一元素的方法由remove变为新增，同时加了一个新方法用于替换在get_col中">
+      <created>1504691649300</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1504691649300</updated>
+    </task>
+    <task id="LOCAL-00010" summary="删除某一元素的方法由remove变为新增，同时加了一个新方法用于替换在get_col中">
+      <created>1507707166863</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1507707166864</updated>
+    </task>
+    <task id="LOCAL-00011" summary="添加了四个页面的用例">
+      <created>1507788546295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1507788546295</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_first - 2017.10.18 at 23h 05m 30s.xml">
+      <configuration name="Unittests in first" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_first - 2017.10.18 at 23h 05m 59s.xml">
+      <configuration name="Unittests in first" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_o1r_first - 2017.10.18 at 23h 53m 42s.xml">
+      <configuration name="Unittests in o1r_first" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_gf_lishi_2_3 - 2017.10.26 at 13h 38m 56s.xml">
+      <configuration name="Unittests in or_gf_lishi_2_3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_gf_lishi_2_3 - 2017.10.26 at 13h 46m 36s.xml">
+      <configuration name="Unittests in or_gf_lishi_2_3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_two - 2017.10.18 at 23h 36m 22s.xml">
+      <configuration name="Unittests in or_two" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_two - 2017.10.18 at 23h 36m 39s.xml">
+      <configuration name="Unittests in or_two" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_two - 2017.10.18 at 23h 37m 05s.xml">
+      <configuration name="Unittests in or_two" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_two - 2017.10.18 at 23h 38m 24s.xml">
+      <configuration name="Unittests in or_two" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_or_two - 2017.10.18 at 23h 42m 42s.xml">
+      <configuration name="Unittests in or_two" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30063966" sideWeight="0.4890605" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26435536" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20735608" sideWeight="0.51093954" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25893825" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.4890605" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20735608" sideWeight="0.51093954" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="试试恢复后再提交" />
+    <MESSAGE value="reject后解决冲突再提交" />
+    <MESSAGE value="添加了oracle对比mysql" />
+    <MESSAGE value="修改了删除某一定向元素的方法" />
+    <MESSAGE value="删除某一元素的方法由remove变为新增，同时加了一个新方法用于替换在get_col中" />
+    <MESSAGE value="添加了四个页面的用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了四个页面的用例" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/table_test/old/light_test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/report/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/round_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_shishiqixiang_1_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_fadian_1_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1784">
+          <caret line="128" column="57" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/set_date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_caoduanqiyuche_2_1_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_duanqiyuche_2_1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_shishigonglv_1_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_yuchegonglv_1_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-919">
+          <caret line="80" column="42" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/oracle_to_mysql/get_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/oracle_to_mysql/get_oracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/oracle_to_mysql/test_oracl_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/oracle_to_mysql/get_col.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/old/gf_sszt_ssgl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/get_heng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/get_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2954">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/get_oracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2454">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/gf_liuchen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/list_com.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/mytest/zhu_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/mytest/zhu_bai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/mytest/zhu_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="17" column="17" selection-start-line="14" selection-start-column="0" selection-end-line="22" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/mytest/or_gf_fail_sszt_ssgl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/mytest/oracle_bak_test_un.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="118" column="21" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/mytest/com_tablebak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/logging.conf.py" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/Logger.py" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/log.txt" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/test_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/log_1.py" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/Logger6.conf" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/loggin2g.conf" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/final_logger.log" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/log.py" />
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/logging.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/public/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="113" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/logger_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/myapp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/hehe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_lilungonglv_1_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3942">
+          <caret line="146" column="40" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+          <folding>
+            <marker date="1507799653475" expanded="true" signature="1431:1613" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507799653475" expanded="true" signature="2160:2336" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507799653475" expanded="true" signature="2881:2996" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1507799653475" expanded="true" signature="3526:3582" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507799653475" expanded="true" signature="3526:3702" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1507799653475" expanded="true" signature="4882:5097" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507799653475" expanded="true" signature="5707:5912" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507799653475" expanded="true" signature="6521:6667" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1507799653475" expanded="true" signature="7262:7366" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507799653475" expanded="true" signature="7262:7467" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/myapp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/testcase/o1r_first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/testcase/myapp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/testcase/or_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/Logger.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../powerbox/public/tezLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/or_gf_shangbao_2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1508996585890" expanded="true" signature="1377:1512" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1508996585890" expanded="true" signature="2049:2239" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1508996585890" expanded="true" signature="2792:2928" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1508996585890" expanded="true" signature="3479:3615" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1508996585890" expanded="true" signature="4144:4281" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1508996585890" expanded="true" signature="5452:5619" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1508996585890" expanded="true" signature="6214:6434" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1508996585890" expanded="true" signature="7047:7213" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1508996585890" expanded="true" signature="7824:7990" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1508996585890" expanded="true" signature="8581:8748" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_test/old/or_gf_shangbao_2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5427">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+          <folding>
+            <marker date="1507802011042" expanded="true" signature="1377:1450" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1507802011042" expanded="true" signature="1377:1512" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507802011042" expanded="true" signature="2049:2119" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507802011042" expanded="true" signature="2049:2239" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507802011042" expanded="true" signature="2792:2928" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1507802011042" expanded="true" signature="2792:2929" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1507802011042" expanded="true" signature="3479:3615" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507802011042" expanded="true" signature="4144:4281" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507802011042" expanded="true" signature="5452:5619" ph="SELECT a.GAT... GF_SPPS_POWER_HIS" />
+            <marker date="1507802011042" expanded="true" signature="6214:6434" ph="SELECT a.FOC... GF_SPPS_PROD_THEORY" />
+            <marker date="1507802011042" expanded="true" signature="7047:7213" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1507802011042" expanded="true" signature="7824:7990" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+            <marker date="1507802011042" expanded="true" signature="8581:8748" ph="SELECT a.PRE... SPPS_PREDICT_CDQ_HIS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
